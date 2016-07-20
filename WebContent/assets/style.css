@@ -1,0 +1,189 @@
+body {
+	background-color: #eaffee;
+	font-family: Verdena, Arial, sans-serif;
+	height: 100%;
+	color: black;
+}
+
+th {
+	text-align: center;
+}
+
+h1 {
+	color: #285ec9;
+}
+
+table {
+	border-spacing: 0;
+	text-align: center;
+	border-collapse: collapse;
+}td {
+	text-align: center;
+	width: 50px;
+	height: 20px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+.blank {
+	background-color: #eaffee;
+	border: none;
+}
+
+.index {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+.entry {
+	color: white;
+	border-color: black;
+}
+
+.form table {
+	border: none;
+	float: left;
+}
+
+.form td {
+	border: none;
+	width: 150px;
+}
+
+a.navitem {
+	display: inline-block;
+	margin-bottom: 10px;
+	font: 28px calibri, sans-serif;
+	border: 1px;
+	border-style: solid;
+	padding: 5px;
+	border-radius: 10px;
+	background: #0077ff;
+	box-shadow: 2px 2px #888888;
+	color: white;
+	width: 200px;
+	text-align: center;
+}
+
+.panel-body {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	margin: auto;
+}
+.panel-body table {
+	margin: auto;
+}
+
+
+table.alignmentSummary {
+	border: none;
+}
+
+table.alignmentSummary td {
+	border: none;
+	text-align: left;
+	white-space: nowrap;
+	min-width: 160px;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	margin: auto;
+}
+
+.table {
+	color:white;
+}
+.table tr td, .table tr td {
+	background-color: #285ec9;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+	background-color: #3399FF;
+}
+
+.table-hover tbody tr:hover td, .table tbody tr:hover th {
+	background-color: #333399;
+}
+
+.table thead tr td, .table thead tr th {
+	background-color: #333399;
+	text-align: center;
+}
+
+.navbar-default {
+	background-color: #285ec9;
+	border-color: #204da5;
+}
+
+.navbar-default .navbar-brand {
+	color: #ecf0f1;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
+	{
+	color: #ffffff;
+}
+
+.navbar-default .navbar-text {
+	color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus
+	{
+	color: #ffffff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,
+	.navbar-default .navbar-nav>.active>a:focus {
+	color: #ffffff;
+	background-color: #204da5;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover,
+	.navbar-default .navbar-nav>.open>a:focus {
+	color: #ffffff;
+	background-color: #204da5;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #204da5;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
+	{
+	background-color: #204da5;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ecf0f1;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: #ecf0f1;
+}
+
+.navbar-default .navbar-link {
+	color: #ecf0f1;
+}
+
+.navbar-default .navbar-link:hover {
+	color: #ffffff;
+}
+
+table .header-cell {
+	background-color: #333399;
+}
+
+table .glyphicon {
+	color: black;
+}
+
+table .glyphicon:hover {
+	color: #333399;
+}
